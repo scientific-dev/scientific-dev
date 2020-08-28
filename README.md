@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey, so you found me!
 
-<!--
-**Scientific-Guy/Scientific-Guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Student who learned Python and Javascript(Somewhat) and make Discord Bots and NPM Packages and sometimes Npm Packages
+I personally just want to be a Astrophysician in **ISRO** and thats much what should i say more though?
 
-Here are some ideas to get you started:
+# Some of my creations
+- [Discord Bot **Name: Dashboard**](https://dashboat.repl.co/)
+- [Chemical Elements Website **Searches Chemical Elements**](https://chemicalelements.glitch.me/)
+- [Factful.js **NPM Package returns random facts!**](https://www.npmjs.com/package/factful.js)
+- [Mongo.Eco **Simple Framework for Discord.js Economy Bots**](https://www.npmjs.com/package/mongo.eco)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My Developement
+
+I started a simple developement named **Decimal** which is just for temporary. Thats all!
