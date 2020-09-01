@@ -3,6 +3,8 @@
 I am a Student who learned Python and Javascript(Somewhat) and make Discord Bots and NPM Packages and sometimes Npm Packages
 I personally just want to be a Astrophysician in **ISRO** and thats much what should i say more though?
 
+[My GitHub Stats](https://github-readme-stats.vercel.app/api?username=scientific-guy&count_private=true&show_icons=true&theme=tokyonight)
+
 # Some of my creations
 - [Discord Bot **Name: Dashboard**](https://dashboat.repl.co/)
 - [Chemical Elements Website **Searches Chemical Elements**](https://chemicalelements.glitch.me/)
