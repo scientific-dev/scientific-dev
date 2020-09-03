@@ -5,6 +5,8 @@ I personally just want to be a Astrophysician in **ISRO** and thats much what sh
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=scientific-guy&count_private=true&show_icons=true&theme=tokyonight)
 
+**My Website: [https://decimaldev.repl.co/](https://decimaldev.repl.co/)**
+
 # Some of my creations
 - [Discord Bot **Name: Dashboard**](https://dashboat.repl.co/)
 - [Chemical Elements Website **Searches Chemical Elements**](https://chemicalelements.glitch.me/)
