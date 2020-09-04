@@ -4,7 +4,6 @@ I am a Student who learned Python and Javascript(Somewhat) and make Discord Bots
 I personally just want to be a Astrophysician in **ISRO** and thats much what should i say more though?
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=scientific-guy&count_private=true&show_icons=true&theme=tokyonight)
-![Test](https://decimaldev.repl.co/)
 
 **My Website: [https://decimaldev.repl.co/](https://decimaldev.repl.co/)**
 
