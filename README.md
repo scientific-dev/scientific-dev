@@ -31,6 +31,10 @@ I started a simple developement named **Decimal** which is just for temporary. T
 # Things i know
 
 - Python
-- Javascript
+- Node.JS
 - Typescript (Somewhat)
+- HTML, CSS & JS
+- Discord.js
+- Better Sqlite 3
+- Ejs
 - Sitting Lazy ;)
