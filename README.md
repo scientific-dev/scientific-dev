@@ -27,3 +27,10 @@ I personally just want to be a Astrophysician in **ISRO** and thats much what sh
 # My Developement
 
 I started a simple developement named **Decimal** which is just for temporary. Thats all!
+
+# Things i know
+
+- Python
+- Javascript
+- Typescript (Somewhat)
+- Sitting Lazy ;)
