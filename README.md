@@ -14,7 +14,7 @@ I personally just want to be a Astrophysician in **ISRO** and thats much what sh
 | Factful | Get random facts from a paticular cateogary or with your customized selection | NPM: https://www.npmjs.com/package/factful.js PyPi: https://pypi.org/project/factful.py/ |
 | Mongo.Eco | Quick framework of economic system for Discord.js Bots | NPM: https://www.npmjs.com/package/mongo.eco |
 | JsonDB.Ez | Make your own database with JSON Files | NPM: https://www.npmjs.com/package/jsondb.ez |
-| Enchanced.DB | Better Sqlite3 wrapper | NPM: https://www.npmjs.com/package/enchanced.db |
+| Enhanced.DB | Better Sqlite3 wrapper | NPM: https://www.npmjs.com/package/enhanced.db |
 
 # My Developement
 
