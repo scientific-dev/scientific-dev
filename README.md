@@ -15,6 +15,7 @@ I personally just want to be a Astrophysician in **ISRO** and thats much what sh
 | Mongo.Eco | Quick framework of economic system for Discord.js Bots | NPM: https://www.npmjs.com/package/mongo.eco |
 | JsonDB.Ez | Make your own database with JSON Files | NPM: https://www.npmjs.com/package/jsondb.ez |
 | Enhanced.DB | Better Sqlite3 wrapper | NPM: https://www.npmjs.com/package/enhanced.db |
+| Chatcord | Easy to make ChatBot | NPM: https://www.npmjs.com/package/chatcord |
 
 # My Developement
 
