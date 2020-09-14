@@ -16,6 +16,7 @@ I personally just want to be a Astrophysician in **ISRO** and thats much what sh
 | JsonDB.Ez | Make your own database with JSON Files | NPM: https://www.npmjs.com/package/jsondb.ez |
 | Enhanced.DB | Better Sqlite3 wrapper | NPM: https://www.npmjs.com/package/enhanced.db |
 | Chatcord | Easy to make ChatBot | NPM: https://www.npmjs.com/package/chatcord |
+| Typestats | Desktop App | Download: https://github.com/Scientific-Guy/Typestats/releases/download/1.0.0/Typestats-win32-x64.rar |
 
 # My Developement
 
