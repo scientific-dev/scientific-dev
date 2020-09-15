@@ -18,6 +18,10 @@ I personally just want to be a Astrophysician in **ISRO** and thats much what sh
 | Chatcord | Easy to make ChatBot | NPM: https://www.npmjs.com/package/chatcord |
 | Typestats | Desktop App | Download: https://github.com/Scientific-Guy/Typestats/releases/download/1.0.0/Typestats-win32-x64.rar |
 
+# Friends
+- [@shadeoxide](https://github.com/shadeoxide)
+- [@abh80](https://github.com/abh80)
+
 # My Developement
 
 I started a simple developement named **Decimal** which is just for temporary. Thats all!
