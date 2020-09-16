@@ -1,7 +1,6 @@
 # Hey, so you found me!
 
-I am a Student who learned Python and Javascript(Somewhat) and make Discord Bots and NPM Packages and sometimes Npm Packages
-I personally just want to be a Astrophysician in **ISRO** and thats much what should i say more though?
+I am a student who learned Python and Javascript and its frameworks and a space lover who wants to be an astrophysician in **ISRO**!
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=scientific-guy&count_private=true&show_icons=true&theme=tokyonight)
 
@@ -29,10 +28,11 @@ I started a simple developement named **Decimal** which is just for temporary. T
 # Things i know
 
 - Python
-- Node.JS
-- Typescript (Somewhat)
-- HTML, CSS & JS
+- Python Tkinter
+- HTML, CSS & Javascript
+- Node.js
 - Discord.js
-- Better Sqlite 3
+- Electron
+- Typescript (Somewhat)
 - Ejs
 - Sitting Lazy ;)
