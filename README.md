@@ -31,6 +31,7 @@ I started a simple developement named **Decimal** which is just for temporary. T
 - Python Tkinter
 - HTML, CSS & Javascript
 - Node.js
+- Deno
 - Discord.js
 - Electron
 - Typescript (Somewhat)
