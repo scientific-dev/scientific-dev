@@ -2,7 +2,7 @@
 
 I am a student who learned Python and Javascript and its frameworks and a space lover who wants to be an astrophysician in **ISRO**!
 
-![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scientific-guy&theme=tokyonight&hide_langs_below=1&layout=compact)
+![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scientific-guy&theme=tokyonight&hide_langs_below=1)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=scientific-guy&count_private=true&show_icons=true&theme=tokyonight)
 
