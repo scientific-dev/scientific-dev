@@ -14,7 +14,7 @@ I am a student who learned Python and Javascript and its frameworks and a space 
 | Dashboard **Discord Bot** | A Multipurpose Discord bot for your server | Website: https://dashboat.repl.co/ Invite: https://discord.com/oauth2/authorize?client_id=736101542243074108&scope=bot&permissions=8 |
 | Factful | Get random facts from a paticular cateogary or with your customized selection | NPM: https://www.npmjs.com/package/factful.js PyPi: https://pypi.org/project/factful.py/ Deno: https://github.com/Scientific-Guy/factful.deno |
 | Mongo.Eco | Quick framework of economic system for Discord.js Bots | NPM: https://www.npmjs.com/package/mongo.eco |
-| JsonDB.Ez | Make your own database with JSON Files | NPM: https://www.npmjs.com/package/jsondb.ez |
+| Quickmongo.py | Pymongo wrapper | Pypi: https://github.com/Scientific-Guy/quickmongo.py |
 | Enhanced.DB | Better Sqlite3 wrapper | NPM: https://www.npmjs.com/package/enhanced.db |
 | Chatcord | Easy to make ChatBot | NPM: https://www.npmjs.com/package/chatcord |
 | Typestats | Desktop App | Download: https://github.com/Scientific-Guy/Typestats/releases/download/1.0.0/Typestats-win32-x64.rar |
