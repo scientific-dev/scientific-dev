@@ -8,6 +8,8 @@ I am a student who learned Python and Javascript and its frameworks and a space 
 
 **My Website: [https://decimaldev.repl.co/](https://decimaldev.repl.co/)**
 
+**My Discord Server: [https://discord.gg/FrduEZd](https://discord.gg/FrduEZd)**
+
 # My main projects
 | Name | Description | Link |
 |------|------|-----------|
