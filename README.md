@@ -6,7 +6,7 @@ I am a student who learned Python and Javascript and its frameworks and a space 
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=scientific-guy&count_private=true&show_icons=true&theme=tokyonight)
 
-**My Website: [https://decimaldev.repl.co/](https://decimaldev.xyz/)**
+**My Website: [https://decimaldev.xyz/](https://decimaldev.xyz/)**
 
 **My Discord Server: [https://discord.gg/FrduEZd](https://discord.gg/FrduEZd)**
 
