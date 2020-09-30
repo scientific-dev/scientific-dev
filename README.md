@@ -1,6 +1,7 @@
 # Hey, so you found me!
 
-I am a student who learned Python and Javascript and its frameworks and a space lover who wants to be an astrophysician in **ISRO**!
+I am a student who learned Python and Javascript and its frameworks and a space lover who wants to be an Astrophysician or a 
+Military science in **ISRO**!
 
 ![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scientific-guy&theme=tokyonight&layout=compact)
 
