@@ -28,9 +28,9 @@ Military scientist in **ISRO**!
 - [@shadeoxide](https://github.com/shadeoxide)
 - [@abh80](https://github.com/abh80)
 
-## My Developement
+## My development
 
-I started a simple developement named **Decimal** which is just for temporary. Thats all!
+I started a simple development named **Decimal** which is just for temporary. Thats all!
 
 ## Things i know
 
