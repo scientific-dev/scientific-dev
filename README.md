@@ -8,12 +8,13 @@ Military scientist in **ISRO**!
 - Discord Server: https://discord.gg/FrduEZd
 - My Website: https://decimaldev.xyz/
 
+## My stats
 ![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scientific-guy&theme=tokyonight&layout=compact)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=scientific-guy&count_private=true&show_icons=true&theme=tokyonight)
 
 
-# My main projects
+## My main projects
 | Name | Description | Link |
 |------|------|-----------|
 | Dashboard **Discord Bot** | A Multipurpose Discord bot for your server | [Website](https://dashboat.repl.co/) || [Invite](https://discord.com/oauth2/authorize?client_id=736101542243074108&scope=bot&permissions=8) |
