@@ -5,8 +5,7 @@ I am a student who learned Python and Javascript and its frameworks and a space 
 Military scientist in **ISRO**!
 
 ## Social media
-- Discord Server: https://discord.gg/FrduEZd (Most active)
-- Twitter: https://twitter.com/devdecimal (Not most active)
+- Discord Server: https://discord.gg/FrduEZd
 - My Website: https://decimaldev.xyz/
 
 ## My stats
