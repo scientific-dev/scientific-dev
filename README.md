@@ -6,12 +6,6 @@
 - ⚡ Fact: I am human!
 - 🌐 You can check out my website [here](https://decimaldev.xyz)
 
-## My stats
-![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scientific-guy&theme=tokyonight&layout=compact)
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=scientific-guy&count_private=true&show_icons=true&theme=tokyonight)
-
-
 ## My main projects
 | Name | Description | Link |
 |------|------|-----------|
@@ -21,6 +15,11 @@
 | Quickmongo.py | Pymongo wrapper | [Pypi](https://github.com/Scientific-Guy/quickmongo.py) |
 | Enhanced.DB | Better Sqlite3 wrapper | [NPM](https://www.npmjs.com/package/enhanced.db) |
 | Chatcord | Easy to make ChatBot | [NPM](https://www.npmjs.com/package/chatcord) |
+
+## My stats
+![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scientific-guy&theme=tokyonight&layout=compact)
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=scientific-guy&count_private=true&show_icons=true&theme=tokyonight)
 
 ## Friends
 - [@shadeoxide](https://github.com/shadeoxide)
