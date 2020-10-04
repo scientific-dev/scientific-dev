@@ -2,17 +2,9 @@
 
 - 🔭 Currently working on spotify api! Try to help me [here](https://github.com/spotify-api/spotify-api.py)
 - 🌱 Currently learning jsx and tsx
-- 📫 Join my [Discord Server](https://discord.gg/FrduEZd)
+- 📫 Join my [Discord Server](https://discord.gg/FrduEZd) and chat with me there
 - ⚡ Fact: I am human!
 - 🌐 You can check out my website [here](https://decimaldev.xyz)
-
-## About me
-I am a student who learned Python and Javascript and its frameworks and a space lover who wants to be an Astrophysician or a 
-Military scientist in **ISRO**!
-
-## Social media
-- Discord Server: https://discord.gg/FrduEZd
-- My Website: https://decimaldev.xyz/
 
 ## My stats
 ![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scientific-guy&theme=tokyonight&layout=compact)
