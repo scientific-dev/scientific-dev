@@ -17,10 +17,12 @@
 | Chatcord | Easy to make ChatBot | [NPM](https://www.npmjs.com/package/chatcord) |
 
 <details>
-  <summary>My Stats</summary>
+  <summary><h2>My stats</h2></summary>
+  
   ![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scientific-guy&theme=tokyonight&layout=compact)
 
   ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=scientific-guy&count_private=true&show_icons=true&theme=tokyonight)
+  
 </details>
 
 ## Friends
