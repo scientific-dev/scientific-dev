@@ -16,7 +16,7 @@
 | Enhanced.DB | Better Sqlite3 wrapper | [NPM](https://www.npmjs.com/package/enhanced.db) |
 | Chatcord | Easy to make ChatBot | [NPM](https://www.npmjs.com/package/chatcord) |
 
-## Others
+## My stats
 
 <details>
   <summary>My language stats</summary>
@@ -30,16 +30,9 @@
   ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=scientific-guy&count_private=true&show_icons=true&theme=tokyonight)
 </details>
 
-<details>
-  <summary>My friend</summary>
-  - [@shadeoxide](https://github.com/shadeoxide)
-  - [@abh80](https://github.com/abh80)
-</details>
-
-<detials>
-  <summary>My developement</summary>
-  I started a simple development named **Decimal** which is just for temporary. Thats all!
-</details>
+## Friends
+- [@shadeoxide](https://github.com/shadeoxide)
+- [@abh80](https://github.com/abh80)
 
 ## Things i know
 
