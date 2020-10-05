@@ -16,22 +16,30 @@
 | Enhanced.DB | Better Sqlite3 wrapper | [NPM](https://www.npmjs.com/package/enhanced.db) |
 | Chatcord | Easy to make ChatBot | [NPM](https://www.npmjs.com/package/chatcord) |
 
+## Others
+
 <details>
-  <summary><h2>My stats</h2></summary>
+  <summary>My language stats</summary>
   
   ![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scientific-guy&theme=tokyonight&layout=compact)
-
-  ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=scientific-guy&count_private=true&show_icons=true&theme=tokyonight)
-  
 </details>
 
-## Friends
-- [@shadeoxide](https://github.com/shadeoxide)
-- [@abh80](https://github.com/abh80)
+<details>
+  <summary>My github stats</summary>
+  
+  ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=scientific-guy&count_private=true&show_icons=true&theme=tokyonight)
+</details>
 
-## My development
+<details>
+  <summary>My friend</summary>
+  - [@shadeoxide](https://github.com/shadeoxide)
+  - [@abh80](https://github.com/abh80)
+</details>
 
-I started a simple development named **Decimal** which is just for temporary. Thats all!
+<detials>
+  <summary>My developement</summary>
+  I started a simple development named **Decimal** which is just for temporary. Thats all!
+</details>
 
 ## Things i know
 
