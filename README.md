@@ -1,7 +1,7 @@
 # Hey, so you found me!
 
-- 🔭 Currently working on spotify api! Try to help me [here](https://github.com/spotify-api/spotify-api.py)
-- 🌱 Currently learning jsx and tsx
+- 🔭 Currently working on spotify-api.js v3 and spotify-api.py v0.0.4
+- 🌱 Currently learning nothing
 - 📫 Join my [Discord Server](https://discord.gg/FrduEZd) and chat with me there
 - ⚡ Fact: I am human!
 - 🌐 You can check out my website [here](https://decimaldev.xyz)
