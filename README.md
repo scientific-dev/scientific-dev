@@ -18,17 +18,9 @@
 
 ## My stats
 
-<details>
-  <summary>My language stats</summary>
-  
-  ![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scientific-guy&theme=tokyonight&layout=compact)
-</details>
+![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scientific-guy&theme=tokyonight&layout=compact)
 
-<details>
-  <summary>My github stats</summary>
-  
-  ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=scientific-guy&count_private=true&show_icons=true&theme=tokyonight)
-</details>
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=scientific-guy&count_private=true&show_icons=true&theme=tokyonight)
 
 ## Friends
 - [@shadeoxide](https://github.com/shadeoxide)
