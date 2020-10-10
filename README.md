@@ -15,6 +15,7 @@
 | Quickmongo.py | Pymongo wrapper | [Pypi](https://github.com/Scientific-Guy/quickmongo.py) |
 | Enhanced.DB | Better Sqlite3 wrapper | [NPM](https://www.npmjs.com/package/enhanced.db) |
 | Chatcord | Easy to make ChatBot | [NPM](https://www.npmjs.com/package/chatcord) |
+| TypeStats | Simple typeracer desktop app built with electron! | [GitHub](https://github.com/Scientific-Guy/Typestats) |
 
 ## My stats
 
