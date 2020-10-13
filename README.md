@@ -1,7 +1,7 @@
 # Hey, so you found me!
 
-- 🔭 Currently working on Typestats Desktop app
-- 🌱 Currently learning Electron
+- 🔭 Currently working on Nothing
+- 🌱 Currently learning React
 - 📫 Join my [Discord Server](https://discord.gg/FrduEZd) and chat with me there
 - ⚡ Fact: I am human!
 - 🌐 You can check out my website [here](https://decimaldev.xyz)
