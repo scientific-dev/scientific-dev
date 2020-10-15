@@ -1,9 +1,9 @@
 # Hey, so you found me!
 
-- 🔭 Currently working on Nothing
+- 🔭 Currently updating my development website
 - 🌱 Currently learning React
 - 📫 Join my [Discord Server](https://discord.gg/FrduEZd) and chat with me there
-- ⚡ Fact: I am human!
+- ⚡ Fact: Even though its simple web project but i use backend for it too using ejs
 - 🌐 You can check out my website [here](https://decimaldev.xyz)
 
 ## My main projects
@@ -29,13 +29,11 @@
 
 ## Things i know
 
-- Python
-- Python Tkinter
-- HTML, CSS & Javascript
+- Python (including flask, django, tkinter)
+- HTML, CSS & Javascript (frontend & backend)
 - Node.js
 - Deno
-- Discord.js
 - Electron
-- Typescript (Somewhat)
-- Ejs
+- Typescript
+- Ejs, React and Vue (Just started)
 - Sitting Lazy ;)
