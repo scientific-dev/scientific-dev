@@ -1,8 +1,8 @@
 # Hey, so you found me!
 
 - 🔭 Currently updating my development website
-- 🌱 Currently learning React
-- 📫 Join my [Discord Server](https://discord.gg/FrduEZd) and chat with me there
+- 🌱 Currently learning React and Vuejs
+- 📫 Join my [Discord Server](https://discord.gg/FrduEZd) and have some talk...
 - ⚡ Fact: Even though its simple web project but i use backend for it too using ejs
 - 🌐 You can check out my website [here](https://decimaldev.xyz)
 
