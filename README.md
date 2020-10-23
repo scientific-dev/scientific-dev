@@ -5,6 +5,7 @@
 - 📫 Join my [Discord Server](https://discord.gg/FrduEZd) and have some talk...
 - ⚡ Fact: Even though its simple web project but i use backend for it too using ejs
 - 🌐 You can check out my website [here](https://decimaldev.xyz)
+- 💻 My Development Organization: https://github.com/decimaldevteam
 
 ## My main projects
 | Name | Description | Link |
