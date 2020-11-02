@@ -1,9 +1,9 @@
 # Hey, so you found me!
 
-- 🔭 Currently updating my development website
-- 🌱 Currently learning React and Vuejs
+- 🔭 Currently working on Spotify-api.go
+- 🌱 Currently learning Golang
 - 📫 Join my [Discord Server](https://discord.gg/FrduEZd) and have some talk...
-- ⚡ Fact: Even though its simple web project but i use backend for it too using ejs
+- ⚡ Fact: My first ever language to learn was js then python
 - 🌐 You can check out my website [here](https://decimaldev.xyz)
 - 💻 My Development Organization: https://github.com/decimaldevteam
 
@@ -30,11 +30,10 @@
 
 ## Things i know
 
-- Python (including flask, django, tkinter)
-- HTML, CSS & Javascript (frontend & backend)
+- Python
+- HTML, CSS & Javascript
 - Node.js
-- Deno
-- Electron
-- Typescript
-- Ejs, React and Vue (Just started)
+- Typescript & Deno
+- Ejs & React
+- Golang
 - Sitting Lazy ;)
