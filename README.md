@@ -15,6 +15,7 @@ I do a lot of useless stuff so here are some projects which i really concentrate
 |------|------|-----------|
 | Website | A Simple website describing about my development | [Link](https://decimaldev.xyz) [GitHub](https://github.com/decimaldevteam/website) |
 | Guides | A Simple website where you can create, read and share guides! | [Link](https://guides.decimaldev.xyz) [GitHub](https://github.com/decimaldevteam/guides) |
+| Botlist | A discord botlist made with react. | [Link](https://botlist.decimaldev.xyz) [GitHub](https://github.com/decimaldevteam/botlist) |
 | GitHubStats | A Simple website which analyzes the github user data! | [Link](https://githubstats.decimaldev.xyz) [GitHub](https://github.com/decimaldevteam/githubstats) |
 | Spotify-api.js | Simple wrapper for spotify written in js and ts | [NPM](https://npmjs.com/package/spotify-api.js) [Docs](https://spotify-api.js.org) |
 | Spotify-api.py | Simple wrapper for spotify written in python | [Pypi](https://pypi.org/project/spotify-api.py/) |
