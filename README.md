@@ -24,6 +24,10 @@ I do a lot of useless stuff so here are some projects which i really concentrate
 | Chatcord | Easy to make ChatBot | [NPM](https://www.npmjs.com/package/chatcord) |
 | TypeStats | Simple typeracer desktop app built with electron! | [GitHub](https://github.com/Scientific-Guy/Typestats) |
 
+## Youtube Channel
+
+I make tutorials on various programming languages and frameworks which you can view from [here](https://www.youtube.com/channel/UCu6B4Z62fiCT_mwwHlc84iQ)!
+
 ## My stats
 
 ![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scientific-guy&theme=tokyonight&layout=compact)
