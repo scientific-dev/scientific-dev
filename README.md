@@ -4,8 +4,9 @@
 - 🌱 Currently learning C#
 - 📫 Join my [Discord Server](https://discord.gg/FrduEZd) and have some talk...
 - ⚡ Fact: My first ever language to learn was JavaScript!
-- 🌐 You can check out my website [here](https://decimaldev.xyz)
+- 🌐 You can check out my website https://scientific-guy.is-a.dev!
 - 💻 My Development Organization: https://github.com/decimaldevteam
+- 💻 My Development Website: https://decimaldev.xyz
 
 ## My main projects
 
