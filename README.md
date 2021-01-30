@@ -14,7 +14,8 @@ I do a lot of useless stuff so here are some projects which i really concentrate
 
 | Name | Description | Link |
 |------|------|-----------|
-| Website | A Simple website describing about my development | [Link](https://decimaldev.xyz) [GitHub](https://github.com/decimaldevteam/website) |
+| Development Website | A simple website describing about my development | [Link](https://decimaldev.xyz) [GitHub](https://github.com/decimaldevteam/website) |
+| Portfolio Website | A simple website describing about me | [Link](https://scientific-guy.is-a.dev) [GitHub](https://github.com/Scientific-Guy/portfolio) |
 | Guides | A Simple website where you can create, read and share guides! | [Link](https://guides.decimaldev.xyz) [GitHub](https://github.com/decimaldevteam/guides) |
 | Botlist | A discord botlist made with react. | [Link](https://botlist.decimaldev.xyz) [GitHub](https://github.com/decimaldevteam/botlist) |
 | GitHubStats | A Simple website which analyzes the github user data! | [Link](https://githubstats.decimaldev.xyz) [GitHub](https://github.com/decimaldevteam/githubstats) |
