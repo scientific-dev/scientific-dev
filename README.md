@@ -1,7 +1,7 @@
 # Hey, so you found me!
 
 - 🔭 Currently working on Nothing
-- 🌱 Currently learning C#
+- 🌱 Currently learning golang in advanced
 - 📫 Join my [Discord Server](https://discord.gg/FrduEZd) and have some talk...
 - ⚡ Fact: My first ever language to learn was JavaScript!
 - 🌐 You can check out my website https://scientific-guy.is-a.dev!
