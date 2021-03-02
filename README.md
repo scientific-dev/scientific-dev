@@ -7,6 +7,7 @@
 - 🌐 You can check out my website https://scientific-guy.is-a.dev!
 - 💻 My Development Organization: https://github.com/decimaldevteam
 - 💻 My Development Website: https://decimaldev.xyz
+- 📰 My Discord Botlist: https://listcord.xyz
 
 ## My main projects
 
@@ -25,10 +26,6 @@ I do a lot of useless stuff so here are some projects which i really concentrate
 | Enhanced.DB | Better Sqlite3 wrapper | [NPM](https://www.npmjs.com/package/enhanced.db) |
 | Chatcord | Easy to make ChatBot | [NPM](https://www.npmjs.com/package/chatcord) |
 | TypeStats | Simple typeracer desktop app built with electron! | [GitHub](https://github.com/Scientific-Guy/Typestats) |
-
-## Youtube Channel
-
-I make tutorials on various programming languages and frameworks which you can view from [here](https://www.youtube.com/channel/UCu6B4Z62fiCT_mwwHlc84iQ)!
 
 ## My stats
 
