@@ -1,6 +1,6 @@
 # Hey, so you found me!
 
-- 🔭 Currently working on Nothing
+- 🔭 Currently working on my discord botlist!
 - 🌱 Currently learning golang in advanced
 - 📫 Join my [Discord Server](https://discord.gg/FrduEZd) and have some talk...
 - ⚡ Fact: My first ever language to learn was JavaScript!
