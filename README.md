@@ -3,7 +3,7 @@
 - 🔭 Currently working on my discord botlist!
 - 🌱 Currently learning golang in advanced
 - 📫 Join my [Discord Server](https://discord.gg/FrduEZd) and have some talk...
-- ⚡ Fact: My first ever language to learn was JavaScript!
+- ⚡ Fact: Other than javascript, i like golang.
 - 🌐 You can check out my website https://scientific-guy.is-a.dev!
 - 💻 My Development Organization: https://github.com/decimaldevteam
 - 💻 My Development Website: https://decimaldev.xyz
@@ -15,13 +15,12 @@ I do a lot of useless stuff so here are some projects which i really concentrate
 
 | Name | Description | Link |
 |------|------|-----------|
+| Templatify | A simple cli to save, use and clone templates locally from github or from your computer. | [GitHub](https://github.com/Scientific-Guy/templatify) |
 | Development Website | A simple website describing about my development | [Link](https://decimaldev.xyz) [GitHub](https://github.com/decimaldevteam/website) |
 | Portfolio Website | A simple website describing about me | [Link](https://scientific-guy.is-a.dev) [GitHub](https://github.com/Scientific-Guy/portfolio) |
 | Guides | A Simple website where you can create, read and share guides! | [Link](https://guides.decimaldev.xyz) [GitHub](https://github.com/decimaldevteam/guides) |
 | Botlist | A discord botlist made with react. | [Link](https://botlist.decimaldev.xyz) [GitHub](https://github.com/decimaldevteam/botlist) |
-| GitHubStats | A Simple website which analyzes the github user data! | [Link](https://githubstats.decimaldev.xyz) [GitHub](https://github.com/decimaldevteam/githubstats) |
 | Spotify-api.js | Simple wrapper for spotify written in js and ts | [NPM](https://npmjs.com/package/spotify-api.js) [Docs](https://spotify-api.js.org) |
-| Spotify-api.py | Simple wrapper for spotify written in python | [Pypi](https://pypi.org/project/spotify-api.py/) |
 | Quickmongo.py | Pymongo wrapper | [Pypi](https://github.com/Scientific-Guy/quickmongo.py) |
 | Enhanced.DB | Better Sqlite3 wrapper | [NPM](https://www.npmjs.com/package/enhanced.db) |
 | Chatcord | Easy to make ChatBot | [NPM](https://www.npmjs.com/package/chatcord) |
