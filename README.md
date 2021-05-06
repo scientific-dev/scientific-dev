@@ -1,6 +1,6 @@
 # Hey, so you found me!
 
-- 🔭 Currently working on my discord botlist!
+- 🔭 Currently working on my interpreter!
 - 🌱 Currently learning rust in deep.
 - 📫 Join my [Discord Server](https://discord.gg/FrduEZd) and have some talk...
 - ⚡ Fact: Other than javascript, i like golang.
