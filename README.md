@@ -1,12 +1,8 @@
 # Hey, so you found me!
 
-- 🔭 Currently working on my interpreter!
-- 🌱 Currently learning rust in deep.
 - 📫 Join my [Discord Server](https://discord.gg/FrduEZd) and have some talk...
 - ⚡ Fact: Other than javascript, i like golang.
-- 🌐 You can check out my website https://scientific-guy.is-a.dev!
-- 💻 My Development Organization: https://github.com/decimaldevteam
-- 💻 My Development Website: https://decimaldev.xyz
+- 🌐 You can check out my website https://scientificdev.is-a.dev!
 - 📰 My Discord Botlist: https://listcord.xyz
 
 ## My main projects
@@ -28,9 +24,8 @@ I do a lot of useless stuff so here are some projects which i really concentrate
 
 ## My stats
 
-![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scientific-guy&theme=tokyonight&layout=compact)
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=scientific-guy&count_private=true&show_icons=true&theme=tokyonight)
+![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scientific-guy&theme=grevboxt&layout=compact)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=scientific-guy&count_private=true&show_icons=true&theme=grevbox)
 
 ## Friends
 - [@shadeoxide](https://github.com/shadeoxide)
