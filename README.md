@@ -25,7 +25,7 @@ I do a lot of useless stuff so here are some projects which i really concentrate
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scientific-dev&theme=gruvbox&layout=compact)
   
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=scientific-dev&count_private=true&show_icons=true&theme=gruvbox)
-![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=scientificdev&theme=gruvbox&layout=compact)
+![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=scientificdev&theme=gruvbox&layout=compact&langs_count=8)
 
 </div>
 
