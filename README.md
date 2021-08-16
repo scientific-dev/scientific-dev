@@ -20,8 +20,13 @@ I do a lot of useless stuff so here are some projects which i really concentrate
 
 ## My stats
 
-![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scientific-dev&theme=grevboxt&layout=compact)
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=scientific-dev&count_private=true&show_icons=true&theme=grevbox)
+<div align="center">
+
+    ![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scientific-dev&theme=gruvboxt&layout=compact)
+
+    ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=scientific-dev&count_private=true&show_icons=true&theme=gruvbox)
+    
+</div>
 
 ## Friends
 - [@shadeoxide](https://github.com/shadeoxide)
