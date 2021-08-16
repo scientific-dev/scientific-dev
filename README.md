@@ -22,10 +22,10 @@ I do a lot of useless stuff so here are some projects which i really concentrate
 
 <div align="center">
 
-    ![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scientific-dev&theme=gruvboxt&layout=compact)
+![My GitHub Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scientific-dev&theme=gruvboxt&layout=compact)
 
-    ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=scientific-dev&count_private=true&show_icons=true&theme=gruvbox)
-    
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=scientific-dev&count_private=true&show_icons=true&theme=gruvbox)
+
 </div>
 
 ## Friends
