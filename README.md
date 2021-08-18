@@ -41,4 +41,5 @@ I do a lot of useless stuff so here are some projects which i really concentrate
 - Typescript & Deno
 - Ejs & React
 - Golang
+- Rust
 - Sitting Lazy ;)
