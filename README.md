@@ -1,5 +1,7 @@
 # Hey, so you found me!
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=scientific-dev&style=flat-square)
+
 - 📫 Join my [Discord Server](https://discord.gg/FrduEZd) and have some talk...
 - ⚡ Fact: Other than javascript, i like golang.
 - 🌐 You can check out my website https://scientific-dev.is-a.dev!
