@@ -5,7 +5,6 @@
 - 📫 Join my [Discord Server](https://discord.gg/FrduEZd) and have some talk...
 - ⚡ Fact: Other than javascript, i like golang.
 - 🌐 You can check out my website https://scientific-dev.is-a.dev!
-- 📰 My Discord Botlist: https://listcord.xyz
 
 ## My main projects
 
