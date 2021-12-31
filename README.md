@@ -2,9 +2,10 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=scientific-dev&style=flat-square)
 
+- 😄 Hi, I'm Sudarsan, a full stack developer, a programmer and a highschool student.
 - 📫 Join my [Discord Server](https://discord.gg/FrduEZd) and have some talk...
-- ⚡ Fact: Other than javascript, i like golang.
-- 🌐 You can check out my website https://scientific-dev.is-a.dev!
+- ⚡ Fact: Other than javascript, i like rust.
+- 🌐 You can check out my website https://thesudarsandev.xyz/!
 
 ## My main projects
 
@@ -16,8 +17,10 @@ I do a lot of useless stuff so here are some projects which i really concentrate
 | Portfolio Website | A simple website describing about me | [Link](https://scientific-dev.is-a.dev) [GitHub](https://github.com/scientific-dev/portfolio) |
 | Spotify-api.js | Simple wrapper for spotify written in js and ts | [NPM](https://npmjs.com/package/spotify-api.js) [Docs](https://spotify-api.js.org) |
 | Enhanced.DB | Better Sqlite3 wrapper | [NPM](https://www.npmjs.com/package/enhanced.db) |
+| Instant.DB | Instant.db helps you to make database instantly using json files for Node.js! | [GitHub](https://github.com/Scientific-Dev/instant.db) |
 | Chatcord | Easy to make ChatBot | [NPM](https://www.npmjs.com/package/chatcord) |
 | TypeStats | Simple typeracer desktop app built with electron! | [GitHub](https://github.com/scientific-dev/Typestats) |
+| TimelineOfIndia | Timeline of India is a website which shows the events from the very first of the Indus civilization of the Indian subcontinent to the current state of the Indian subcontinent. | [GitHub](https://github.com/timelineofindia) |
 
 ## My stats
 
