@@ -14,7 +14,7 @@ I do a lot of useless stuff so here are some projects which i really concentrate
 | Name | Description | Link |
 |------|------|-----------|
 | Templatify | A simple cli to save, use and clone templates locally from github or from your computer. | [GitHub](https://github.com/scientific-dev/templatify) |
-| Portfolio Website | A simple website describing about me | [Link](https://scientific-dev.is-a.dev) [GitHub](https://github.com/scientific-dev/portfolio) |
+| Portfolio Website | A simple website describing about me | [Link](https://scientific-dev.github.io) [GitHub](https://github.com/scientific-dev/portfolio) |
 | Spotify-api.js | Simple wrapper for spotify written in js and ts | [NPM](https://npmjs.com/package/spotify-api.js) [Docs](https://spotify-api.js.org) |
 | Enhanced.DB | Better Sqlite3 wrapper | [NPM](https://www.npmjs.com/package/enhanced.db) |
 | Instant.DB | Instant.db helps you to make database instantly using json files for Node.js! | [GitHub](https://github.com/Scientific-Dev/instant.db) |
