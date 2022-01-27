@@ -3,7 +3,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=scientific-dev&style=flat-square)
 
 - 😄 Hi, I'm Sudarsan, a full stack developer, a programmer and a highschool student.
-- 📫 Join my [Discord Server](https://discord.gg/FrduEZd) and have some talk...
+- 📫 Join my [Discord Server](https://discord.gg/qFNwUNpSx8) and have some talk...
 - ⚡ Fact: Other than javascript, i like rust.
 - 🌐 You can check out my website https://thesudarsandev.xyz/!
 
