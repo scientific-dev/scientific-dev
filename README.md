@@ -17,6 +17,7 @@ I do a lot of useless stuff so here are some projects which i really concentrate
 | Portfolio Website | A simple website describing about me | [Link](https://scientific-dev.github.io) [GitHub](https://github.com/scientific-dev/portfolio) |
 | Spotify-api.js | Simple wrapper for spotify written in js and ts | [NPM](https://npmjs.com/package/spotify-api.js) [Docs](https://spotify-api.js.org) |
 | Ludo | A site built in svelte to play singleplayer ludo for fun even with bots! | [Github](https://github.com/scientific-dev/ludo) [Link](https://scientific-dev.github.io/ludo) |
+| Periodic Table | An interactive periodic table website displaying each element's name, atomic number, mass number, physical properties, chemical properties, etc. | [Link](https://scientific-dev.github.io/periodic-table) [GitHub](https://github.com/scientific-dev/periodic-table) |
 | Enhanced.DB | Better Sqlite3 wrapper | [NPM](https://www.npmjs.com/package/enhanced.db) |
 | Instant.DB | Instant.db helps you to make database instantly using json files for Node.js! | [GitHub](https://github.com/Scientific-Dev/instant.db) |
 | Chatcord | Easy to make ChatBot | [NPM](https://www.npmjs.com/package/chatcord) |
