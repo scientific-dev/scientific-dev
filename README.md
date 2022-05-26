@@ -24,6 +24,7 @@ I do a lot of useless stuff so here are some projects which i really concentrate
 | TypeStats | Simple typeracer desktop app built with electron! | [GitHub](https://github.com/scientific-dev/Typestats) |
 | TimelineOfIndia | Timeline of India is a website which shows the events from the very first of the Indus civilization of the Indian subcontinent to the current state of the Indian subcontinent. | [GitHub](https://github.com/timelineofindia) [Link](https://timelineofindia.github.io/) |
 | Colormath.js | A color conversion and color manipulation library written in typescript for Node.js, Deno and Browser 🎨. | [NPM](https://npmjs.com/package/colormath.js) [GitHub](https://github.com/scientific-dev/colormath.js) |
+| Game of Life | A simple website built with Svelte to play the Game of life which was invented by British mathematician John Horton Conway in 1970. | [GitHub](https://github.com/scientific-dev/gameoflife) [Link](https://scientific-dev.github.io/gameoflife/) |
 
 ## My stats
 
