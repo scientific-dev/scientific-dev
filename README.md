@@ -6,7 +6,7 @@
 - 📫 Join my [Discord Server](https://discord.gg/7cKycj94yB) and have some talk...
 - ⚡ Fact: Other than javascript, i like rust.
 - 🌐 You can check out my website https://thesudarsandev.xyz/!
-- 📔 At present, not working in any project!
+- 📔 At present, not working in any project (Preparaing for JEE)!
 
 ## My main projects
 
